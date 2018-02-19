@@ -1,6 +1,7 @@
 #include <stdio.h>
-
-int main(void) {
+#include<conio.h>
+int main(void)
+{
 	char a[100];
    int i,k;
    scanf("%s %d",a,&k);
@@ -9,4 +10,5 @@ int main(void) {
     printf("%s\n",a);
     }
     return 0;
+    getch();
     }
