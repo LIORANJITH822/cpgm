@@ -9,5 +9,5 @@ int main()
 	    n=n+1;
 	}
 	cout<<n;
-	return 0;
+	getch();
 }
